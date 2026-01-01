@@ -20,7 +20,7 @@ A feature-rich music player built with Python's Tkinter and Pygame libraries. Th
 
 ## 📸 Screenshots
 
-![Music_player](https://github.com/user-attachments/assets/6e687999-ac09-4760-8880-a6a82b10fe6a) = (200x100)
+![Music_player](https://github.com/user-attachments/assets/6e687999-ac09-4760-8880-a6a82b10fe6a | width == 100)
 
 
 ## 🚀 How to Run
